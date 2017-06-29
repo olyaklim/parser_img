@@ -1,0 +1,6 @@
+/img/logo-white.svg
+/img/blog/html-css/dj7/dj7-5.jpg
+/img/premium/opencart.jpg
+/img/premium/freelance.jpg
+/img/premium/cool.jpg
+//mc.yandex.ru/watch/25346996

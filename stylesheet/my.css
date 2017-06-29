@@ -1,0 +1,27 @@
+.decimal-group {
+	display: none;
+}
+.option-group {
+	background: #f3f3f3;
+	padding: 9px 19px;
+	border-radius: 4px;
+}
+.calculator {
+	border: 2px solid #66b8ff;
+	padding: 5px 22px;
+	border-radius: 3px;
+	margin-top: 20px;
+	background: #f9f9f9;
+}
+.calculator h1 {
+	margin-bottom: 20px;
+}
+.text-error {
+	color: #f5345f;
+}
+#result-text {
+	color: #9d9d9d;
+}
+#result_link a {
+	text-decoration: underline;
+}
